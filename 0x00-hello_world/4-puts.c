@@ -3,8 +3,8 @@
 * main - entry point
 * return: 0 (shows the program is successful)
 */
-int main(void)
+main(void)
 {
-	 puts("\"Programming is like building a multilingual puzzle");
-	return (0);
+puts("\"Programming is like building a multilingual puzzle");
+return (0);
 }
